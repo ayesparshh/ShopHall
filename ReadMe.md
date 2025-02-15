@@ -48,13 +48,17 @@ Customer Ordering
 ![alt text](image.png)
 
 Adding items in store, if already present saying probably present
+
 ![alt text](image-1.png)
 
 Seller checks the reciepts for users who have purchased
+
 ![alt text](image-4.png)
 
 More than 1 users have baught milk
+
 ![alt text](image-3.png)
 
 searching how much times the milk is sold.
+
 ![alt text](image-2.png)
