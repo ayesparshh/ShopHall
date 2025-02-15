@@ -40,3 +40,17 @@ Space-efficient probabilistic data structure
 Uses 4 hash functions (h1-h4) to check item uniqueness
 Prevents duplicate items in the inventory
 Has small false positive rate but no false negatives
+
+some working screenshots
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
