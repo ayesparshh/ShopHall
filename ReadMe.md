@@ -62,3 +62,7 @@ More than 1 users have baught milk
 searching how much times the milk is sold.
 
 ![alt text](image-2.png)
+
+fuzzy search implemented
+
+![alt text](image-6.png)
